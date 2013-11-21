@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<auth>
+    <url>
+        <request_token_url name="https://api.twitter.com/oauth/request_token"></request_token_url>
+        <authorize_url name="https://api.twitter.com/oauth/authorize?oauth_token="></authorize_url>
+        <access_token_url name="https://api.twitter.com/oauth/access_token"></access_token_url>
+    </url>
+
+    <account>
+        <access_token_key name=""></access_token_key>
+        <access_token_secret name=""></access_token_secret>
+        <consumer_key name=""></consumer_key>
+        <consumer_secret name=""></consumer_secret>
+    </account>
+</auth>
